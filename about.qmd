@@ -1,0 +1,23 @@
+---
+title: "About"
+image: haku.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/swanaung/
+    - icon: github
+      text: Github
+      href: https://github.com/swan-aung
+
+---
+
+Welcome to "The Machine Learning Journey"! 
+
+My name is Swan Aung and I am a Machine Learning enthusiast and practitioner. 
+On this blog, I will be sharing my thoughts, experiences, and insights 
+on the fascinating world of Machine Learning and Artificial Intelligence. 
+Whether you are a beginner looking to learn more about these technologies or an experienced practitioner 
+looking for new ideas and perspectives, I hope you will find something of value here. 
+Thank you for joining me on this journey to explore the vast and rapidly-evolving world of machine learning and AI.

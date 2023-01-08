@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "AI and the Path to Purpose"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/swan-aung
+      - icon: linkedin
+        href: https://www.linkedin.com/in/swanaung/
+      #- icon: twitter
+      #  href: https://twitter.com/SwanAung94
+format:
+  html:
+    theme: superhero
+    css: styles.css
+
+
+
