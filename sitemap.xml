@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://swan-aung.github.io/about.html</loc>
-    <lastmod>2023-01-09T13:37:00.750Z</lastmod>
+    <lastmod>2023-01-09T14:37:43.050Z</lastmod>
   </url>
   <url>
     <loc>https://swan-aung.github.io/index.html</loc>
-    <lastmod>2023-01-09T13:37:01.080Z</lastmod>
+    <lastmod>2023-01-09T14:37:43.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swan-aung.github.io/posts/learning-how-to-learn/Untitled.html</loc>
+    <lastmod>2023-01-09T14:37:43.930Z</lastmod>
   </url>
   <url>
     <loc>https://swan-aung.github.io/posts/training-classification-model-with-fastai/image_classification.html</loc>
-    <lastmod>2023-01-09T13:37:01.550Z</lastmod>
+    <lastmod>2023-01-09T14:37:44.610Z</lastmod>
   </url>
 </urlset>
